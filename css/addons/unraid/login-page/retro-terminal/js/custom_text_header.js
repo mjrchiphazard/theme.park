@@ -6,7 +6,8 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>      .o.            ooooo      ooo      ooooooooooooo        .oooooo.        ooooo      ooo 
+<div class="custom-text-header"> <pre>      
+.o.            ooooo      ooo      ooooooooooooo        .oooooo.        ooooo      ooo 
      .888.           `888b.     `8'      8'   888   `8       d8P'  `Y8b       `888b.     `8' 
     .8"888.           8 `88b.    8            888           888      888       8 `88b.    8  
    .8' `888.          8   `88b.  8            888           888      888       8   `88b.  8  
