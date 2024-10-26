@@ -7,22 +7,28 @@
 
 let custom_text_header = `
 <div class="custom-text-header"> <pre>
-               AAA                    NNNNNNNN        NNNNNNNN     TTTTTTTTTTTTTTTTTTTTTTT          OOOOOOOOO          NNNNNNNN        NNNNNNNN
-              A:::A                   N:::::::N       N::::::N     T:::::::::::::::::::::T        OO:::::::::OO        N:::::::N       N::::::N
-             A:::::A                  N::::::::N      N::::::N     T:::::::::::::::::::::T      OO:::::::::::::OO      N::::::::N      N::::::N
-            A:::::::A                 N:::::::::N     N::::::N     T:::::TT:::::::TT:::::T     O:::::::OOO:::::::O     N:::::::::N     N::::::N
-           A:::::::::A                N::::::::::N    N::::::N     TTTTTT  T:::::T  TTTTTT     O::::::O   O::::::O     N::::::::::N    N::::::N
-          A:::::A:::::A               N:::::::::::N   N::::::N             T:::::T             O:::::O     O:::::O     N:::::::::::N   N::::::N
-         A:::::A A:::::A              N:::::::N::::N  N::::::N             T:::::T             O:::::O     O:::::O     N:::::::N::::N  N::::::N
-        A:::::A   A:::::A             N::::::N N::::N N::::::N             T:::::T             O:::::O     O:::::O     N::::::N N::::N N::::::N
-       A:::::A     A:::::A            N::::::N  N::::N:::::::N             T:::::T             O:::::O     O:::::O     N::::::N  N::::N:::::::N
-      A:::::AAAAAAAAA:::::A           N::::::N   N:::::::::::N             T:::::T             O:::::O     O:::::O     N::::::N   N:::::::::::N
-     A:::::::::::::::::::::A          N::::::N    N::::::::::N             T:::::T             O:::::O     O:::::O     N::::::N    N::::::::::N
-    A:::::AAAAAAAAAAAAA:::::A         N::::::N     N:::::::::N             T:::::T             O::::::O   O::::::O     N::::::N     N:::::::::N
-   A:::::A             A:::::A        N::::::N      N::::::::N           TT:::::::TT           O:::::::OOO:::::::O     N::::::N      N::::::::N
-  A:::::A               A:::::A       N::::::N       N:::::::N           T:::::::::T            OO:::::::::::::OO      N::::::N       N:::::::N
- A:::::A                 A:::::A      N::::::N        N::::::N           T:::::::::T              OO:::::::::OO        N::::::N        N::::::N
-AAAAAAA                   AAAAAAA     NNNNNNNN         NNNNNNN           TTTTTTTTTTT                OOOOOOOOO          NNNNNNNN         NNNNNNN  
+      .o.            ooooo      ooo      ooooooooooooo        .oooooo.        ooooo      ooo 
+     .888.           `888b.     `8'      8'   888   `8       d8P'  `Y8b       `888b.     `8' 
+    .8"888.           8 `88b.    8            888           888      888       8 `88b.    8  
+   .8' `888.          8   `88b.  8            888           888      888       8   `88b.  8  
+  .88ooo8888.         8     `88b.8            888           888      888       8     `88b.8  
+ .8'     `888.        8       `888            888           `88b    d88'       8       `888  
+o88o     o8888o      o8o        `8           o888o           `Y8bood8P'       o8o        `8  
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+                                                                                             
+
+
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
